@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "last_name": "Sharavara",
+      "first_name": "Kate",
+      "dob": "1990-11-12",
+      "gender": "Male",
+      "social_status": "Married"
+    },
+    {
+      "id": 2,
+      "last_name": "zdvfsdf",
+      "first_name": "kdfjo",
+      "dob": "1986-10-12",
+      "gender": "Female",
+      "social_status": "Married"
+    },
+    {
+      "id": 3,
+      "last_name": "zdfvsdfg",
+      "first_name": "kdfjo",
+      "dob": "1990-12-12",
+      "gender": "Male",
+      "social_status": "Married"
+    },
+    {
+      "id": 4,
+      "last_name": "Sharavara",
+      "first_name": "Nino",
+      "dob": "1990-11-12",
+      "gender": "Male",
+      "social_status": "Married"
+    },
+    {
+      "id": 5,
+      "last_name": "zdvfsdf",
+      "first_name": "kdfjo",
+      "dob": "1986-10-12",
+      "gender": "Male",
+      "social_status": "Married"
+    },
+    {
+      "id": 6,
+      "last_name": "zdfvsdfg",
+      "first_name": "kdfjo",
+      "dob": "1990-12-12",
+      "gender": "Male",
+      "social_status": "Married"
+    }
+  ]
+}
