@@ -71,12 +71,12 @@
           <v-list-tile slot="activator">
             <v-list-tile-title>Clients</v-list-tile-title>
           </v-list-tile>
-          <v-list-tile>
+          <v-list-tile to="/process">
             <v-list-tile-content>
               <v-list-tile-title>In Process</v-list-tile-title>
             </v-list-tile-content>
           </v-list-tile>
-          <v-list-tile>
+          <v-list-tile to="/my">
             <v-list-tile-content>
               <v-list-tile-title>My Clients</v-list-tile-title>
             </v-list-tile-content>

@@ -10,6 +10,16 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
+      path: '/process',
+      name: 'processClients',
+      component: Clients
+    },
+    {
+      path: '/my',
+      name: 'myClients',
+      component: Clients
+    },
+    {
       path: '/',
       name: 'clients',
       component: Clients
